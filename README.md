@@ -4,25 +4,12 @@ A fan-made Next.js web application inspired by the *Demon Slayer: Kimetsu no Yai
 This project showcases characters, story details, and thematic highlights, with dynamic data rendering from JavaScript objects.
 
 ---
-
-## 📂 Project Structure
-
-```
-.
-├── public/           # Static assets (images, icons, etc.)
-├── pages/            # Next.js pages (routes)
-├── components/       # Reusable UI components
-├── styles/           # Global and component-specific styles
-├── data.js           # Themed data arrays and objects
-└── README.md
-```
-
 ---
 
 ## 🚀 Features
 
 - **Dynamic Navigation** – Rendered from `navLinks` data.
-- **Character Lists** – Divided into main characters (`cocktailLists`) and supporting characters (`mockTailLists`).
+- **Character Lists** – Divided into main characters
 - **Profile Avatars** – Rendered from `profileLists`.
 - **Feature Highlights** – Cinematic qualities from `featureLists` and `goodLists`.
 - **Store Info** – Custom section for release location or viewing details.
